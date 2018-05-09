@@ -1,0 +1,24 @@
+# Base configs
+baseurl: "https://austinuhlig.github.io/photography"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Austin Uhlig"
+subtitle: ""
+author: "Austin Uhlig"
+header:
+ title: "Photography"
+ subtitle: "by Austin Uhlig"
+footer:
+ name: "Hey there, my name is Austin."
+ bio: "I'm going to be an incoming freshman at Hastings College, and I take photos as my side project. Feel free to get in touch to book a shoot!"
+
+web_design: "AJ"
+social_urls:
+ 
+  twitter: "https://www.twitter.com/austin_uhlig"
+  instagram: "https://www.instagram.com/auhligphotos"
+  flickr: "https://flickr.com/photos/austinuhlig"
+
